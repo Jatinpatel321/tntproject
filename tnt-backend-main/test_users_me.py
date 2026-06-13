@@ -1,4 +1,4 @@
-﻿"""
+"""
 Users /me endpoints — test_users_me.py
 
 Covers:
